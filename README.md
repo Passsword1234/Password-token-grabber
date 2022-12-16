@@ -1,5 +1,5 @@
 <h1 align="center">
-  Token Grabber
+Passsword Token Grabber
 </h1>
 
 
@@ -57,7 +57,7 @@
 ### 1. Download Python:
 
 ```
-Make sure you have Python installed and it is added to your 
+Make sure you have Python3.x installed and it is added to your 
 ```
 ### 1. Download The Files:
 

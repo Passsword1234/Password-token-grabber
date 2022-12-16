@@ -2,19 +2,6 @@
   Token Grabber
 </h1>
 
-<div align="center">
-  <img  src="https://user-images.githubusercontent.com/99215486/175369409-b967da5b-e373-48ea-b8f5-8ed3d613df03.gif">
-  <br>
-  <img  src="https://img.shields.io/github/languages/top/Smug246/Luna-Token-Grabber?color=6d00c1">
-  <img  src="https://img.shields.io/github/stars/Smug246/Luna-Token-Grabber?color=6d00c1&logoColor=6d00c1">
-  <br>
-  <img  src="https://img.shields.io/github/commit-activity/w/Smug246/Luna-Token-Grabber?color=6d00c1">
-  <img  src="https://img.shields.io/github/last-commit/Smug246/Luna-Token-Grabber?color=6d00c1&logoColor=6d00c1">
-  <br>
-  <img  src="https://img.shields.io/github/issues/Smug246/Luna-Token-Grabber?color=6d00c1&logoColor=6d00c1">
-  <img  src="https://img.shields.io/github/issues-closed/Smug246/Luna-Token-Grabber?color=6d00c1&logoColor=6d00c1">
-  <hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
-</div>
 
 ## Features
 
@@ -77,11 +64,11 @@ Make sure you have Python installed and it is added to your
 ```
 Once you've downloaded the files extract the folder so it's no longer a .zip file.
 ```
-### 2. Open The build.bat File:
+### 2. Open The builder.py File:
 
 ```
-You dont need to install any modules opening this will install them for you. Then you can open the build.bat which will
-open a terminal with the luna logo. Don't worry although this looks quite menacing its just aesthetic and is normal.
+You dont need to install any modules opening this will install them for you. Then you can open the builder.py which will
+open a terminal with the a logo. Don't worry although this looks quite menacing its just aesthetic and is normal.
 ```
 ### 3. Create A Webhook:
 
